@@ -29,4 +29,5 @@
  * ---------------------------------------------------------------- */
 
 import Foundation
+import mosquitto
 import mosquitto_cxx
