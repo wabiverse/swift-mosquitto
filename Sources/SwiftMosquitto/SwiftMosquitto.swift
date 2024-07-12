@@ -30,7 +30,7 @@
 
 import Foundation
 
-@_export import mosquitto
-@_export import mosquitto_cxx
-@_export import mosquitto_shim
-@_export import mosquittopp
+@_exported import mosquitto
+@_exported import mosquitto_cxx
+@_exported import mosquitto_shim
+@_exported import mosquittopp
