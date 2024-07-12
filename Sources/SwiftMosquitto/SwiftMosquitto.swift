@@ -29,5 +29,8 @@
  * ---------------------------------------------------------------- */
 
 import Foundation
-import mosquitto
-import mosquitto_cxx
+
+@_export import mosquitto
+@_export import mosquitto_cxx
+@_export import mosquitto_shim
+@_export import mosquittopp
